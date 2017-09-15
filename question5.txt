@@ -1,0 +1,1 @@
+This is a document for question 5 that will find the longest sequence of characters in a word that does not conatin a vowel.  

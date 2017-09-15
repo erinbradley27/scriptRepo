@@ -1,0 +1,8 @@
+Dress           100.00
+Coffee            5.25
+Hat               1.00
+Watering Can     10.00
+Firelogs         30.99
+Lampshade       100.10
+
+Shipping:  10.00  Subtotal: 247.34  Total: 289.49
